@@ -1,0 +1,225 @@
+.tela-de-cadastro, .tela-de-cadastro * {
+    box-sizing: border-box;
+    }
+.tela-de-cadastro {
+   background: #ffffff;
+   width: 1440px;
+    height: 1024px;
+   
+           position: relative;
+   
+       overflow: hidden;
+   }
+
+.rectangle-6 {
+   background: #606c38;
+   border-radius: 15px;
+   width: 488px;
+    height: 570px;
+   
+           position: absolute;
+    left: 120px;
+   top: 300px;
+   
+       box-shadow:  0px 4px 26.6px 0px rgba(0, 0, 0, 0.45);
+   }
+
+.rectangle-62 {
+   background: #bc6c25;
+   border-radius: 5px;
+   width: 285px;
+    height: 20px;
+   
+           position: absolute;
+    left: 221px;
+   top: 400px;
+   
+       box-shadow: inset 3px 1px 4px 0px rgba(0, 0, 0, 0.25);
+   }
+
+.rectangle-7 {
+   background: #bc6c25;
+   border-radius: 5px;
+   width: 285px;
+    height: 20px;
+   
+           position: absolute;
+    left: 221px;
+   top: 500px;
+   
+       box-shadow: inset 3px 2px 4px 0px rgba(0, 0, 0, 0.25);
+   }
+
+.rectangle-8 {
+   background: #bc6c25;
+   border-radius: 5px;
+   width: 285px;
+    height: 20px;
+   
+           position: absolute;
+    left: 221px;
+   top: 700px;
+   
+       box-shadow: inset 3px 2px 4px 0px rgba(0, 0, 0, 0.25);
+   }
+
+.rectangle-9 {
+   background: #bc6c25;
+   border-radius: 5px;
+   width: 285px;
+    height: 20px;
+   
+           position: absolute;
+    left: 221px;
+   top: 600px;
+   
+       box-shadow: inset 3px 2px 4px 0px rgba(0, 0, 0, 0.25);
+   }
+
+.nome {
+   color: #fefae0;
+   text-align: left;
+   font: 600 25px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 499px);
+   top: 345px;
+   
+       width: 82px;
+    height: 24px;
+   }
+
+.e-mail {
+   color: #fefae0;
+   text-align: left;
+   font: 600 25px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 499px);
+   top: 445px;
+   
+       width: 82px;
+    height: 24px;
+   }
+
+.senha {
+   color: #fefae0;
+   text-align: left;
+   font: 600 25px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 498px);
+   top: 545px;
+   
+       width: 82px;
+    height: 24px;
+   }
+
+.confirmar-senha {
+   color: #fefae0;
+   text-align: left;
+   font: 600 25px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 499px);
+   top: 645px;
+   
+       width: 218px;
+    height: 24px;
+   }
+
+.rectangle-63 {
+   background: #bc6c25;
+   border-radius: 5px;
+   width: 184px;
+    height: 45px;
+   
+           position: absolute;
+    left: 272px;
+   top: 775px;
+   
+       }
+
+.cadastrar {
+   color: #ffffff;
+   text-align: left;
+   font: 600 20px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 407px);
+   top: 786px;
+   
+       width: 101px;
+    height: 19px;
+   }
+
+.rectangle-5 {
+   background: #606c38;
+   width: 1440px;
+    height: 146px;
+   
+           position: absolute;
+    left: 0px;
+   top: -2px;
+   
+       }
+
+.portal-acad-mico {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 498px);
+   top: 44px;
+   
+       width: 183px;
+    height: 55px;
+   }
+
+.sobre {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - -421px);
+   top: 68px;
+   
+       width: 77px;
+    height: 25px;
+   }
+
+.contato {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - -201px);
+   top: 68px;
+   
+       width: 101px;
+    height: 25px;
+   }
+
+.young-man-using-laptop-class-1 {
+   width: 710px;
+    height: 880px;
+   
+           position: absolute;
+    left: 730px;
+   top: 144px;
+   
+       }
+
+.rectangle-11 {
+   background: #bc6c25;
+   width: 710px;
+    height: 880px;
+   
+           position: absolute;
+    left: 730px;
+   top: 144px;
+   
+       }

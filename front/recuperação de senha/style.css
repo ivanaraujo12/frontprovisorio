@@ -1,0 +1,173 @@
+.recupera-o-de-senha, .recupera-o-de-senha * {
+    box-sizing: border-box;
+    }
+.recupera-o-de-senha {
+   background: #ffffff;
+   width: 1440px;
+    height: 1024px;
+   
+           position: relative;
+   
+       overflow: hidden;
+   }
+
+.rectangle-10 {
+   background: #606c38;
+   border-radius: 15px;
+   width: 488px;
+    height: 420px;
+   
+           position: absolute;
+    left: 120px;
+   top: 325px;
+   
+       box-shadow:  0px 4px 26.6px 0px rgba(0, 0, 0, 0.45);
+   }
+
+.rectangle-12 {
+   background: #bc6c25;
+   border-radius: 5px;
+   width: 285px;
+    height: 20px;
+   
+           position: absolute;
+    left: 221px;
+   top: 450px;
+   
+       box-shadow: inset 3px 2px 4px 0px rgba(0, 0, 0, 0.25);
+   }
+
+.rectangle-14 {
+   background: #bc6c25;
+   border-radius: 5px;
+   width: 285px;
+    height: 20px;
+   
+           position: absolute;
+    left: 221px;
+   top: 550px;
+   
+       box-shadow: inset 3px 2px 4px 0px rgba(0, 0, 0, 0.25);
+   }
+
+.e-mail {
+   color: #fefae0;
+   text-align: left;
+   font: 600 25px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 499px);
+   top: 395px;
+   
+       width: 82px;
+    height: 24px;
+   }
+
+.senha {
+   color: #fefae0;
+   text-align: left;
+   font: 600 25px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 498px);
+   top: 495px;
+   
+       width: 82px;
+    height: 24px;
+   }
+
+.rectangle-15 {
+   background: #bc6c25;
+   border-radius: 5px;
+   width: 184px;
+    height: 45px;
+   
+           position: absolute;
+    left: 272px;
+   top: 625px;
+   
+       }
+
+.recuperar {
+   color: #ffffff;
+   text-align: left;
+   font: 600 20px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 410px);
+   top: 635px;
+   
+       width: 108px;
+    height: 19px;
+   }
+
+.rectangle-122 {
+   background: #606c38;
+   width: 1440px;
+    height: 146px;
+   
+           position: absolute;
+    left: 0px;
+   top: -1px;
+   
+       }
+
+.portal-acad-mico {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 498px);
+   top: 45px;
+   
+       width: 183px;
+    height: 55px;
+   }
+
+.sobre {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - -421px);
+   top: 69px;
+   
+       width: 77px;
+    height: 25px;
+   }
+
+.contato {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - -201px);
+   top: 69px;
+   
+       width: 101px;
+    height: 25px;
+   }
+
+.professor-senior-em-oculos-explicando-matematica-exemplo-ligado-verde-chalkboard-1 {
+   width: 710px;
+    height: 879px;
+   
+           position: absolute;
+    left: 730px;
+   top: 145px;
+   
+       }
+
+.rectangle-123 {
+   background: #bc6c25;
+   width: 710px;
+    height: 879px;
+   
+           position: absolute;
+    left: 730px;
+   top: 145px;
+   
+       }

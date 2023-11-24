@@ -1,0 +1,193 @@
+.tela-de-sobre, .tela-de-sobre * {
+   box-sizing: border-box;
+   }
+.tela-de-sobre {
+  background: #ffffff;
+  width: 1440px;
+   height: 1024px;
+  
+          position: relative;
+  
+      overflow: hidden;
+  }
+
+.image-2 {
+  width: 1440px;
+   height: 878px;
+  
+          position: absolute;
+   left: 1440px;
+  top: 146px;
+  
+      
+      transform-origin: 0 0;
+  
+      transform: rotate(0deg) scale(-1, 1);
+  
+  }
+
+.rectangle-8 {
+  background: #606c38;
+  width: 1440px;
+   height: 146px;
+  
+          position: absolute;
+   left: 0px;
+  top: 0px;
+  
+      }
+
+.portal-acad-mico {
+  color: #fefae0;
+  text-align: left;
+  font: 400 25px 'Montserrat-Regular', sans-serif;
+  
+          position: absolute;
+   left: calc(50% - 498px);
+  top: 46px;
+  
+      width: 183px;
+   height: 55px;
+  }
+
+.sobre {
+  color: #fefae0;
+  text-align: left;
+  font: 400 25px 'Montserrat-Regular', sans-serif;
+  
+          position: absolute;
+   left: calc(50% - -421px);
+  top: 70px;
+  
+      width: 77px;
+   height: 25px;
+  }
+
+.contato {
+  color: #fefae0;
+  text-align: left;
+  font: 400 25px 'Montserrat-Regular', sans-serif;
+  
+          position: absolute;
+   left: calc(50% - -201px);
+  top: 70px;
+  
+      width: 101px;
+   height: 25px;
+  }
+
+.rectangle-17 {
+  background: #bc6c25;
+  width: 1440px;
+   height: 879px;
+  
+          position: absolute;
+   left: 0px;
+  top: 145px;
+  
+      }
+
+.group-2 {
+  
+          position: absolute;
+   inset: 0;
+  
+      }
+
+.quem-n-s {
+  color: #bc6c25;
+  text-align: right;
+  font: 900 50px 'Montserrat-Black', sans-serif;
+  
+          position: absolute;
+   left: calc(50% - -261px);
+  top: 220px;
+  
+      width: 339px;
+   height: 48px;
+  }
+
+.somos {
+  color: #bc6c25;
+  text-align: right;
+  font: 900 50px 'Montserrat-Black', sans-serif;
+  
+          position: absolute;
+   left: calc(50% - -370px);
+  top: 270px;
+  
+      width: 230px;
+   height: 48.05px;
+  }
+
+.fruto-de-uma-iniciativa-pautada-no-avan-o-da-educa-o-e-de-seus-recursos-com-o-uso-da-tecnologia-somos-uma-institui-o-respons-vel-em-desenvolver-este-portal-acad-mico-no-intuito-de-facilitar-o-trabalho-da-doc-ncia {
+  color: #bc6c25;
+  text-align: right;
+  font: 500 25px 'Montserrat-Medium', sans-serif;
+  
+          position: absolute;
+   left: calc(50% - -61px);
+  top: 370px;
+  
+      width: 539px;
+   height: 233px;
+  }
+
+.rectangle-16 {
+  background: #606c38;
+  border-radius: 15px;
+  width: 387px;
+   height: 70px;
+  
+          position: absolute;
+   left: 933px;
+  top: 625px;
+  
+      box-shadow:  0px 4px 26.6px 0px rgba(0, 0, 0, 0.45);
+  }
+
+.efetue-seu-login {
+  color: #fefae0;
+  text-align: right;
+  font: 600 25px 'Montserrat-SemiBold', sans-serif;
+  
+          position: absolute;
+   left: calc(50% - -235px);
+  top: 645px;
+  
+      width: 257px;
+   height: 23px;
+  }
+
+.arrow-1 {
+  width: 19px;
+   height: 0px;
+  
+          position: absolute;
+   left: 1248px;
+  top: 660px;
+  
+      
+          transform: translate(-1px, -7.36px);
+  
+      overflow: visible;
+  }
+
+.ellipse-1 {
+  border-radius: 50%;
+  
+  border-style: solid;
+   
+  border-color: #fefae0;
+  
+  border-width: 2px;
+  
+  width: 40px;
+   height: 40px;
+  
+          position: absolute;
+   left: 1238px;
+  top: 640px;
+  
+      }
+

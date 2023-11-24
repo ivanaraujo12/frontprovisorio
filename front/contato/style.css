@@ -1,0 +1,192 @@
+.desktop-8, .desktop-8 * {
+    box-sizing: border-box;
+    }
+.desktop-8 {
+   background: #ffffff;
+   width: 1440px;
+    height: 1024px;
+   
+           position: relative;
+   
+       overflow: hidden;
+   }
+
+.rectangle-16 {
+   background: #606c38;
+   width: 1440px;
+    height: 146px;
+   
+           position: absolute;
+    left: 0px;
+   top: 0px;
+   
+       }
+
+.portal-acad-mico {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 498px);
+   top: 46px;
+   
+       width: 183px;
+    height: 55px;
+   }
+
+.sobre {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - -421px);
+   top: 70px;
+   
+       width: 77px;
+    height: 25px;
+   }
+
+.contato {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - -201px);
+   top: 70px;
+   
+       width: 101px;
+    height: 25px;
+   }
+
+.e-mail-portalacademico-gmail-com {
+   color: #bc6c25;
+   text-align: center;
+   font: 400 25px '-', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 600px);
+   top: 395px;
+   
+       width: 477px;
+    height: 24px;
+   }
+
+.e-mail-portalacademico-gmail-com-span {
+   
+           color: #bc6c25;
+   
+           font: 700 25px 'Montserrat-Bold', sans-serif;
+   
+           
+           
+       }
+
+.e-mail-portalacademico-gmail-com-span2 {
+   
+           color: #bc6c25;
+   
+           font: 500 25px 'Montserrat-Medium', sans-serif;
+   
+           
+           
+       }
+
+.tel-71-9-0000-0000 {
+   color: #bc6c25;
+   text-align: center;
+   font: 400 25px '-', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 600px);
+   top: 445px;
+   
+       width: 257px;
+    height: 24px;
+   }
+
+.tel-71-9-0000-0000-span {
+   
+           color: #bc6c25;
+   
+           font: 700 25px 'Montserrat-Bold', sans-serif;
+   
+           
+           
+       }
+
+.tel-71-9-0000-0000-span2 {
+   
+           color: #bc6c25;
+   
+           font: 500 25px 'Montserrat-Medium', sans-serif;
+   
+           
+           
+       }
+
+.image-3 {
+   border-radius: 25px;
+   width: 1201px;
+    height: 454px;
+   
+           position: absolute;
+    left: 120px;
+   top: 570px;
+   
+       }
+
+.group-4 {
+   
+           position: absolute;
+    inset: 0;
+   
+       }
+
+.group-3 {
+   width: 553px;
+    height: 104px;
+   
+           position: static;
+   
+       }
+
+.confira-nossos {
+   color: #bc6c25;
+   text-align: right;
+   font: 900 50px 'Montserrat-Black', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 600px);
+   top: 241px;
+   
+       width: 537px;
+    height: 48px;
+   }
+
+.meios-de-contato {
+   color: #bc6c25;
+   text-align: right;
+   font: 900 50px 'Montserrat-Black', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 600px);
+   top: 297px;
+   
+       width: 553px;
+    height: 48px;
+   }
+
+.rectangle-11 {
+   background: #bc6c25;
+   border-radius: 20px;
+   width: 1201px;
+    height: 454px;
+   
+           position: absolute;
+    left: 120px;
+   top: 570px;
+   
+       }

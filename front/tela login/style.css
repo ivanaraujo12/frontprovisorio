@@ -1,0 +1,199 @@
+.tela-de-login, .tela-de-login * {
+    box-sizing: border-box;
+    }
+.tela-de-login {
+   background: #ffffff;
+   width: 1440px;
+    height: 1024px;
+   
+           position: relative;
+   
+       overflow: hidden;
+   }
+
+.pexels-kaboompics-com-6168-1 {
+   width: 1440px;
+    height: 1026px;
+   
+           position: absolute;
+    left: 0px;
+   top: -2px;
+   
+       }
+
+.rectangle-10 {
+   background: #bc6c25;
+   width: 1440px;
+    height: 878px;
+   
+           position: absolute;
+    left: 0px;
+   top: 146px;
+   
+       }
+
+.rectangle-1 {
+   background: #606c38;
+   border-radius: 15px;
+   width: 488px;
+    height: 395px;
+   
+           position: absolute;
+    left: 425px;
+   top: 350px;
+   
+       box-shadow:  6px 4px 55px 0px rgba(0, 0, 0, 0.75);
+   }
+
+.rectangle-2 {
+   background: #bc6c25;
+   border-radius: 5px;
+   width: 285px;
+    height: 20px;
+   
+           position: absolute;
+    left: 528px;
+   top: 450px;
+   
+       box-shadow: inset 3px 2px 4px 0px rgba(0, 0, 0, 0.25);
+   }
+
+.rectangle-3 {
+   background: #bc6c25;
+   border-radius: 5px;
+   width: 285px;
+    height: 20px;
+   
+           position: absolute;
+    left: 527px;
+   top: 550px;
+   
+       box-shadow: inset 3px 2px 4px 0px rgba(0, 0, 0, 0.25);
+   }
+
+.rectangle-4 {
+   background: #bc6c25;
+   border-radius: 5px;
+   width: 122px;
+    height: 30px;
+   
+           position: absolute;
+    left: 610px;
+   top: 620px;
+   
+       }
+
+.nome {
+   color: #fefae0;
+   text-align: left;
+   font: 600 25px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 88px);
+   top: 395px;
+   
+       width: 82px;
+    height: 24px;
+   }
+
+.senha {
+   color: #fefae0;
+   text-align: left;
+   font: 600 25px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 88px);
+   top: 495px;
+   
+       width: 82px;
+    height: 24px;
+   }
+
+.login {
+   color: #ffffff;
+   text-align: left;
+   font: 600 20px 'Montserrat-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 76px);
+   top: 623px;
+   
+       width: 60px;
+    height: 19px;
+   }
+
+.cadastrar {
+   color: #fefae0;
+   text-align: left;
+   font: 400 20px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 201px);
+   top: 673px;
+   
+       width: 102px;
+    height: 19px;
+   }
+
+.recuperar {
+   color: #fefae0;
+   text-align: left;
+   font: 400 20px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 0px);
+   top: 673px;
+   
+       width: 108px;
+    height: 19px;
+   }
+
+.rectangle-102 {
+   background: #606c38;
+   width: 1440px;
+    height: 146px;
+   
+           position: absolute;
+    left: 0px;
+   top: 0px;
+   
+       }
+
+.portal-acad-mico {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - 498px);
+   top: 46px;
+   
+       width: 183px;
+    height: 55px;
+   }
+
+.sobre {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - -421px);
+   top: 70px;
+   
+       width: 77px;
+    height: 25px;
+   }
+
+.contato {
+   color: #fefae0;
+   text-align: left;
+   font: 400 25px 'Montserrat-Regular', sans-serif;
+   
+           position: absolute;
+    left: calc(50% - -201px);
+   top: 70px;
+   
+       width: 101px;
+    height: 25px;
+   }
